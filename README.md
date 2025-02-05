@@ -1,17 +1,13 @@
 # Wine_Quality_Prediction project
 
 ## 📌 Project Overview
-This project performs **Exploratory Data Analysis (EDA)** on the world population dataset. The goal is to analyze trends, distributions, and patterns in global population data up to **2023**.
+This project performs **Exploratory Data Analysis (EDA)** on the wine_quality . The goal is to analyze trends, distributions, and patterns in 
 
 ## 📊 Dataset
 - **Source**: [Specify dataset source, e.g., UN, World Bank]
 - **Description**: The dataset includes country-wise population data, growth trends, density, urbanization, and age demographics.
 - **Key Features**:
-  - Total population per country
-  - Population growth trends
-  - Population density distribution
-  - Urban vs rural population trends
-  - Age structure analysis
+  - 
 
 ## 🛠️ Installation & Setup
 To run the analysis on your local machine:
