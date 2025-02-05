@@ -22,13 +22,15 @@ To run the analysis on your local machine:
    cd World-Population-EDA
    ```
 
-2. ### Create conda environment after opening the reprository
+2. ### Create virtual environment after opening the reprository
    ```bash
-   conda create --name Wine_Quality_project python=3.11.5
+   python3 -m venv venv
    ```
 
+  ### Activate virtual environment
    ```bash
-   conda activate Wine_Quality_project
+   source venv/Scripts/activate
+
    ```
    
 2. **Install dependencies**:
