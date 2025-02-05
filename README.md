@@ -19,7 +19,6 @@ To run the analysis on your local machine:
 1. **Clone the repository**:
    ```bash
    https://github.com/MayamAslam146/Wine_Quality_project
-   cd World-Population-EDA
    ```
 
 2. ### Create virtual environment after opening the reprository
@@ -67,5 +66,5 @@ Contributions are welcome! Follow these steps:
 
 ## 📬 Contact
 For queries or suggestions:
-📧 Email: [your-email@example.com]  
-🔗 GitHub: [your-username](https://github.com/your-username)
+📧 Email: [ma4209137@gmail.com]  
+🔗 GitHub: [https://github.com/MayamAslam146/Wine_Quality_project]
